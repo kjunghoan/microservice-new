@@ -37,4 +37,5 @@ test_suite_analysis/
 ### Google IDX ###
 .idx
 ### Environment ###
+.env
 .env.*
